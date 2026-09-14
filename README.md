@@ -69,14 +69,6 @@ The dataset includes information such as:
 
 ---
 
-## 📈 Dashboard
-
-### Dashboard Preview
-
-![Power BI Dashboard](dashboard.png)
-
----
-
 ## 🔍 Key Learning Outcomes
 
 Through this project, I practiced:
