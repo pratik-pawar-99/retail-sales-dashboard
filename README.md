@@ -1,8 +1,20 @@
-# Online Retail Sales Dashboard – Power BI
+# 📊 Online Retail Sales Dashboard
 
-This is my first Power BI dashboard, created while learning Data Analytics.
-I used the Online Retail dataset to explore sales and customer data.
-The dashboard covers monthly revenue, top countries, top customers, and product demand.
-I used Power BI, Power Query, and DAX to clean, analyze, and visualize the data.
-This project helped me understand how raw data can be turned into useful insights.
-Still learning and improving, so feedback is always welcome! 🚀
+My first Power BI dashboard project using an Online Retail Sales dataset.
+
+## 🧹 Data Cleaning
+- Removed duplicate records
+- Removed quantities below 0
+- Removed unit prices below 0
+
+## 📊 Dashboard
+- Monthly Sales
+- Top Countries by Sales
+- Top Customers
+- Product Demand by Country
+
+## 🛠️ Tool
+Power BI
+
+## 📚 Skills Learned
+Data Cleaning, Data Analysis, Data Visualization, Dashboard Building
